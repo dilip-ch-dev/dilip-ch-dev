@@ -2,7 +2,7 @@
 
 **Data Engineer | Lakehouse Architecture | Cloud-Native Pipelines**
 
-Passionate about building scalable, production-grade data platforms that drive business intelligence and fraud detection. Nearly 4 years of experience designing and deploying ETL/ELT solutions on AWS, Databricks, and Snowflake. I specialize in implementing modern data architectures (Medallion, Lakehouse) with emphasis on data governance, real-time streaming, and ML-driven analytics.
+Passionate about building scalable, production-grade data platforms that drive business intelligence and fraud detection. About 4 years of experience designing and deploying ETL/ELT solutions on AWS, Databricks, and Snowflake. I specialize in implementing modern data architectures (Medallion, Lakehouse) with emphasis on data governance, real-time streaming, and ML-driven analytics.
 
 ---
 
@@ -83,7 +83,7 @@ Passionate about building scalable, production-grade data platforms that drive b
 
 ### 💼 **Work Experience Highlights**
 
-#### **Hartford Insurance (Remote) | Jan 2025 – Oct 2025**
+#### **Citi (Remote) | Jan 2025 – Nov 2025**
 *Data Engineer*
 
 - Engineered serverless ETL/ELT pipeline on AWS: **Oracle → Snowflake** (40% faster processing)
