@@ -108,7 +108,7 @@ Passionate about building scalable, production-grade data platforms that drive b
 
 ---
 
-#### **CGG | Jan 2021 – Dec 2022**
+#### **EPAM Systems | Jan 2021 – Dec 2022**
 *Data Engineer (Hyderabad, India)*
 
 - Modernized monolithic ETL system → Python serverless AWS Glue: **30% faster, fewer failures**
